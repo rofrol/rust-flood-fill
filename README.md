@@ -1,0 +1,3 @@
+- [Mock Google interview (for Software Engineer job) - coding & algorithms tips - YouTube](https://www.youtube.com/watch?v=IWvbPIYQPFM&feature=youtu.be&t=318)
+- https://en.m.wikipedia.org/wiki/Flood_fill
+- https://leetcode.com/problems/flood-fill/
